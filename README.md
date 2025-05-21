@@ -1,4 +1,5 @@
 
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -87,11 +88,11 @@
 
   <script>
     const questions = [
-      "Sino ang cute na may birthday today??",
-      "Favorite ulam ni pane?",
-      "Sino baby ni Kevin?"
+      "Sino Baby ni Kevin???",
+      "Sino lab lab ni Angky?",
+      "Favorite ulam mo?"
     ];
-    const answers = ["Pane", "Sinigang", "Bob"];
+    const answers = ["Bob", "Pane", "Sinigang"];
     let selectedQuestion = "";
 
     function saveData() {
