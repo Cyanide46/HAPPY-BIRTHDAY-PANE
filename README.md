@@ -88,11 +88,11 @@
 
   <script>
     const questions = [
-      "Sino Baby ni Kevin???",
-      "Sino lab lab ni Angky?",
-      "Favorite ulam mo?"
-    ];
-    const answers = ["Bob", "Pane", "Sinigang"];
+      "Pag ikaw ay nag bake, wag kang mag v-vape masusunog ang____",
+      "Pag ikaw ay nag bake, wag kang mag v-vape masusunog ang____",
+      "Pag ikaw ay nag bake, wag kang mag v-vape masusunog ang____"
+    ];  
+    const answers = ["cake", "cake", "cake"];
     let selectedQuestion = "";
 
     function saveData() {
