@@ -88,11 +88,11 @@
 
   <script>
     const questions = [
-      "What’s the opposite of sadness on your birthday?",
-      "What comes with cake, balloons, and laughter?",
-      "What’s your favorite birthday treat?"
+      "Sino ang cute na may birthday today??",
+      "Favorite ulam ni pane?",
+      "Sino baby ni Kevin?"
     ];
-    const answers = ["fun", "party", "cake"];
+    const answers = ["Pane", "Sinigang", "Bob"];
     let selectedQuestion = "";
 
     function saveData() {
